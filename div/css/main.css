@@ -1,0 +1,12 @@
+#follow{
+    display: none;
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    left: 25px;
+    top: 10px;
+    background-color: #e0e0e0;
+    border: 1px solid #404040;
+    padding: 10px;
+    border-radius: 10px;
+}
